@@ -1,0 +1,21 @@
+.active-tab-btn {
+  background-color: #db1c48;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  font-weight: bolder;
+  width: 60px;
+  padding: 5px;
+}
+
+.not-active-tab-btn {
+  background-color: transparent;
+  border: solid 1px #db1c48;
+  color: #db1c48;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  width: 60px;
+  padding: 5px;
+}
